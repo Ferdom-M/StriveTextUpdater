@@ -1,19 +1,27 @@
 import requests
-import os
+from shutil import copyfile
 
 STARTING_LINE = 4
 LINE_SKIP = 1
+NEW_FILE_NAME = "NewREDGame.uexp"
+UPDATE_FILE_NAME = "REDGameUpdate.uexp"
+OLD_FILE_NAME = "REDGame.uexp"
 
 def ReadFileOnline(region):
-    url = "https://gitcdn.link/repo/Ferdom-M/StriveTextUpdater/main/REDGame" + region + ".uexp"
-    read_data = requests.get(url).content
-    dataString = read_data.decode("utf-16 le", errors="replace")
+    url = "https://raw.githubusercontent.com/Ferdom-M/StriveTextUpdater/main/REDGame" + region + ".uexp"
+    request = requests.get(url)
+    read_data = request.content
+
+    file = open(UPDATE_FILE_NAME, 'wb')
+    file.write(read_data)
+
+    dataString = read_data.decode("utf-16 le", errors="ignore")
     newLineList = dataString.splitlines()
     return newLineList
 
 
 def ReadFileOffline(fileName):
-    file = open(fileName, "r", encoding="utf-16 le", errors="replace")
+    file = open(fileName, "r", encoding="utf-16 le", errors="ignore")
     lineList = file.read().splitlines()
     return lineList
 
@@ -32,26 +40,35 @@ def CompareFileString(oldLineList, newLineList):
             newLine += LINE_SKIP
         else:
             newLine += LINE_SKIP * 2
+
     return newLineList
 
 def WriteNewFile(newLineList):
-    if os.path.exists("NewREDGame.uexp"):
-        os.remove("NewREDGame.uexp")
-    file = open("NewREDGame.uexp", "x", encoding="utf-16 le")
+    copyfile(UPDATE_FILE_NAME, NEW_FILE_NAME)
 
-    for i in range(len(newLineList)):
+    file = open(NEW_FILE_NAME, "r+", encoding="utf-16 le", errors="replace")
+
+    for i in range(STARTING_LINE):
+        file.readline()
+
+    size = file.tell()
+    file.seek(0, 1)
+    file.truncate(size)
+
+    for i in range(STARTING_LINE, len(newLineList)):
         file.write(newLineList[i] + "\n")
 
     print("Donetes have fun luv")
 
-
-newLineList = ReadFileOnline(input("Enter region code of the uexp file to update: ").upper())
-#newLineList = ReadFileOffline("REDGameESN.uexp")
+inputRegion = input("Enter region code of the uexp file to update: ").upper()
+newLineList = ReadFileOnline(inputRegion)
+#newLineList = ReadFileOffline(UPDATE_FILE_NAME)
 if newLineList[0] != "Not Found":
-    oldLineList = ReadFileOffline("REDGame.uexp")
+    oldLineList = ReadFileOffline(OLD_FILE_NAME)
 
     newLineList = CompareFileString(oldLineList, newLineList)
 
+    #WriteNewFileOnline(newLineList, inputRegion)
     WriteNewFile(newLineList)
 else:
     print(newLineList[0])
