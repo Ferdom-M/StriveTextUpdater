@@ -10,7 +10,7 @@ To solve this and update the modded <b>REDGame.uexp</b>, this program:
 <li>Changes will be saved on a new file: <b>NewREDGame.uexp</b></li>
 </ul>
 
-<h3>Installation</h3>  
+<h3>How to use</h3>  
 
 Download <a href ="https://github.com/Ferdom-M/StriveTextUpdater/releases/download/1.0/StriveTextUpdater.zip">StriveTextUpdater.zip</a>  . It contains two files: **OnlineUpdater.exe** and **OfflineUpdater.exe**.
 Extract them and place them in a folder. Copy your **REDGame.uexp** to be updated to that folder (MUST BE NAMED "**REDGame.uexp**")
