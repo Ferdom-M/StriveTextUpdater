@@ -30,7 +30,6 @@ If used offline, it will try to read **REDGameUpdated.uexp**, must be provided b
 
 When finished it will create a file named: "**NewREDGame.uexp**". Rename it to REDGame.uexp and create your pak using Unreal Pak
 
-========================
 Json Creator
 ========================
 
