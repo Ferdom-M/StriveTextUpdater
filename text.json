@@ -1,0 +1,1264 @@
+{
+   "Entries": [
+      {
+         "header": "CMDKYK01T",
+         "text": "Kike avanza un paso con este ataque.^n;^n;Si el oponente lo bloquea, podrás moverte antes que él, así que es una buena opción a corta distancia."
+      },
+      {
+         "header": "CMDKYK07T",
+         "text": "Kike arremete contra el rival a ras de suelo.^n;El primer golpe es bajo.^n;^n;Es una buena forma de atacar al rival mientras esquivas ataques dirigidos a la zona superior."
+      },
+      {
+         "header": "CMDKYK08T",
+         "text": "Kike salta por los aires y ataca al rival desde arriba.^n;Otorga ventaja cuando el rival bloquea el final del movimiento.^n;^n;Es una buena manera de atacar al rival y pasar por encima de sus golpes rápidos."
+      },
+      {
+         "header": "CMDKYK10T",
+         "text": "Kike da un tajo hacia delante.^n;Causa Shock State al rival al impactar.^n;^n;La recuperación es bastante corta, así que es una buena opción cuando se quiere infligir Shock State al rival."
+      },
+      {
+         "header": "CMDKYK13T",
+         "text": "Kike se transforma fortaleciendo cada uno de sus movimientos especiales de forma significativa.^n;^n;Al activarse libera una onda expansiva que tambalea al rival.^n;También causará un cambio de área cuando se golpea en la esquina."
+      },
+      {
+         "header": "CMDMAY01T",
+         "text": "Mayonesa salta realizando un ataque desde arriba.^n;^n;Puede usarse para esquivar ataques bajos y el rival no puede bloquearlo mientras está agachado."
+      },
+      {
+         "header": "CMDMAY02T",
+         "text": "Una arremetida baja que derriba al rival al golpearlo.^n;^n;Cuando Mayonesa esté cerca del suelo, puede esquivar ataques que golpeen alto con este movimiento."
+      },
+      {
+         "header": "CMDMAY06T",
+         "text": "Mayonesa salta hacia delante con la ayuda^n;de Mr. Dolphin.^n;Su trayectoria cambia entre las versiones^n;con ^mBtnS; y ^mBtnHS;.^n;^n;Como salta hacia arriba durante el ataque, es buena opción contra rivales en el aire."
+      },
+      {
+         "header": "CMDMAY09T",
+         "text": "Un poderoso proyectil que aparece detrás de Mayonesa y se mueve hacia el suelo.^n;El tamaño del proyectil y el daño que inflige son enormes.^n;^n;Cuando el proyectil aparece desde la esquina, el arranque de este movimiento será más rápido cuanto más cerca esté Mayonesa de esa esquina.^n;^n;También causará un cambio de área cuando se golpea en la esquina."
+      },
+      {
+         "header": "CMDMAY10T",
+         "text": "Una poderosa arremetida que se mueve hacia arriba.^n;^n;Mientras Mayonesa hace un arco según avanza, el movimiento ascendente puede usarse como antiaéreo y el descenso puede golpear a un rival que esté tocando el suelo.^n;^n;También causará un cambio de área cuando se golpea en la esquina."
+      },
+      {
+         "header": "CMDAXL02T",
+         "text": "Un ataque desde arriba que envía a Alejandro hacia el rival.^n;Al saltar hacia arriba, puede usarse para evitar los ataques que golpean bajo.^n;^n;Le da a Alejandro la ventaja cuando se bloquea el final del ataque."
+      },
+      {
+         "header": "CMDAXL03T",
+         "text": "Un ataque con un alcance excelente.^n;^n;Recorre toda la pantalla y anula la mayoría de los proyectiles del rival, con algunas excepciones.^n;^n;Alejandro no puede moverse hasta que la hoz le vuelva."
+      },
+      {
+         "header": "CMDAXL04T",
+         "text": "Ataque de continuación que puede ejecutarse durante Sickle Flash.^n;(^mAtk4;(mantener)^mAtk6;+^mBtnS;)^n;Alejandro recupera su hoz describiendo un arco con el que puede herir a los rivales en el aire.^n;^n;Muy útil cuando el rival esquiva Sickle Flash con un salto."
+      },
+      {
+         "header": "CMDAXL06T",
+         "text": "Ataque de continuación que puede ejecutarse durante Sickle Flash.^n;Alejandro lo completa haciendo que la hoz explote.^n;^n;Al explotar después de extenderse completamente, no acierta a los rivales cercanos."
+      },
+      {
+         "header": "CMDAXL08T",
+         "text": "Un ataque que cubre una gran distancia y comienza desde delante de Alejandro hasta la parte superior de su cabeza.^n;^n;Es especialmente útil en los combos de medio alcance.^n;^n;Sin embargo, no puede golpear a los rivales cercanos."
+      },
+      {
+         "header": "CMDAXL09T",
+         "text": "Alejandro salta hacia atrás y ataca los pies del rival.^n;^n;Añade espacio entre el rival y tú a la vez que funciona como un golpe rápido.^n;La recuperación es rápida e, incluso cuando lo bloquean, no quedas en gran desventaja.^n;Sin embargo, es débil contra los saltos del rival."
+      },
+      {
+         "header": "CMDAXL10",
+         "text": "^aSpecial;Alejandro Bomber"
+      },
+      {
+         "header": "CMDPOT01T",
+         "text": "Pepe Miguel arremete hacia delante.^n;^n;Es una buena forma de acercarse a media distancia."
+      },
+      {
+         "header": "CMDPOT03",
+         "text": "^aSpecial;Pepe Miguel Buster"
+      },
+      {
+         "header": "CMDPOT04T",
+         "text": "Un movimiento que atrapa a los rivales en el aire.^n;También causará un cambio de área cuando se golpea en la esquina.^n;^n;Atrae al rival hacia ti incluso cuando lo bloquea, lo que crea la oportunidad de asestar un Pepe Miguel Buster."
+      },
+      {
+         "header": "CMDPOT06T",
+         "text": "Pepe Miguel salta hacia atrás con este ataque desde arriba.^n;^n;Puede esquivar fácilmente los golpes rápidos del rival y tiene menos recuperación que Mega Fist (hacia delante), por lo que Pepe Miguel gana ventaja hasta si lo bloquean."
+      },
+      {
+         "header": "CMDPOT08T",
+         "text": "Pepe Miguel arremete rápidamente hacia delante.^n;^n;Podrá sufrir un único golpe del rival durante la arremetida, se interrumpirá si sufre más."
+      },
+      {
+         "header": "CMDPOT09T",
+         "text": "Pepe Miguel para y se detiene la animación de Hammer Fall.^n;Dado que Pepe Miguel para sin realizar el ataque real, se recupera rápidamente.^n;^n;Puedes usar Hammer Fall Break para asestar un Pepe Miguel Buster por sorpresa a un rival mientras espera un Hammer Fall."
+      },
+      {
+         "header": "CMDPOT11T",
+         "text": "Un ataque que hace que el rival se tambalee.^n;Puedes asestar un Pepe Miguel Buster al rival mientras se tambalea al golpear a corta distancia.^n;Como puedes moverte antes que el rival aunque lo haya bloqueado, tendrás una buena oportunidad para un Pepe Miguel Buster.^n;^n;Sin embargo, el arranque es relativamente lento."
+      },
+      {
+         "header": "CMDPOT12",
+         "text": "^aUltimate;Heavenly Pepe Miguel Buster"
+      },
+      {
+         "header": "CMDPOT12T",
+         "text": "Una poderosa técnica de agarre que atrapa a los rivales en el aire.^n;Tiene invulnerabilidad mientras se lanza el agarre y no puede bloquearse en el aire.^n;^n;Si el agarre falla, Pepe Miguel puede moverse mientras está en el aire.^n;También puede usarse para causar un gran daño en los combos."
+      },
+      {
+         "header": "CMDZAT02T",
+         "text": "Zacarías salta y realiza un ataque sorpresa desde las alturas.^n; ^n;Puede esquivar los golpes rápidos del rival saltando sobre ellos.^n; ^n;Aunque no es un ataque desde arriba propiamente dicho, puede anularse con un movimiento especial aéreo, ya que Zacarías estará en el aire."
+      },
+      {
+         "header": "CMDZAT03T",
+         "text": "Zacarías se mueve rápidamente en una dirección determinada.^n; ^n;Durante un tiempo, Zacarías puede moverse con cierto grado de libertad en el aire."
+      },
+      {
+         "header": "CMDZAT04",
+         "text": "^aSpecial;Invocar a Eduardo"
+      },
+      {
+         "header": "CMDZAT04T",
+         "text": "Invoca a Eduardo, el alter ego de Zacarías.^n; ^n;Se puede controlar a Eduardo junto a Zacarías y realiza un movimiento diferente para cada botón de ataque.^n;Mientras esté invocado, Eduardo puede volver a las sombras con el mismo comando.^n; ^n;Eduardo desaparece cuando Zacarías o Eduardo reciben daño o cuando la barra de vida de Eduardo llega a cero."
+      },
+      {
+         "header": "CMDZAT05T",
+         "text": "Eduardo arremete hacia el frente, atacando dos veces.^n; ^n;Tiene un arranque rápido y funciona bien como un golpe rápido."
+      },
+      {
+         "header": "CMDZAT06T",
+         "text": "Eduardo crea un gran número de taladros.^n; ^n;Tiene múltiples golpes que inmovilizan al rival tanto si los bloquea como si le golpean."
+      },
+      {
+         "header": "CMDZAT07T",
+         "text": "Eduardo salta realizando un ataque.^n; ^n;Su amplio alcance lo convierte en una buena opción contra los rivales en el aire.^n;Al golpear al rival hacia arriba, puede continuarse con un combo incluso cuando se golpea a media distancia."
+      },
+      {
+         "header": "CMDZAT08T",
+         "text": "Eduardo realiza un ataque lento que golpea varias veces.^n;^n;Eduardo puede soportar los ataques enemigos hasta que se lanza el ataque.^n;Esto no hará que Eduardo desaparezca, así que este movimiento puede usarse como un bloqueador.^n;^n;Sin embargo, Eduardo es incapaz de bloquear los movimientos de frenesí con este movimiento."
+      },
+      {
+         "header": "CMDZAT10T",
+         "text": "Zacarías se esconde en las sombras.^n; ^n;Si se mantiene pulsado el botón se puede aumentar el tiempo oculto hasta cierto punto, pero aumenta la recuperación después de reaparecer.^n; ^n;Mientras está oculto puede moverse a la izquierda y a la derecha, mientras tanto es invulnerable.^n;Puedes pasar al otro lado del enemigo."
+      },
+      {
+         "header": "CMDZAT12T",
+         "text": "Un ataque que devuelve los proyectiles del rival.^n; ^n;Cuando se usa cerca de Eduardo, este puede alejarse en un instante."
+      },
+      {
+         "header": "CMDZAT14T",
+         "text": "Eduardo se transforma en una espada y vuela como un proyectil hacia el rival.^n;Eduardo vuelve a su forma original donde aterriza la espada, por lo que puedes crear una ofensiva doble junto a Zacarías.^n;^n;Puede usarse cuando Eduardo no está disponible, lo que recuperará completamente su barra de vida.^n;^n;También causará un cambio de área cuando se golpea en la esquina."
+      },
+      {
+         "header": "CMDNAG05T",
+         "text": "Nagoriyuki se pone en estado de Blood Rage.^n; ^n;Cuando la barra de sangre sobrepasa cierto valor, Nagoriyuki se pone en estado de Blood Rage.^n;Durante Blood Rage, el alcance del ataque de ^mBtnS; y ^mBtnHS; se amplía y puede usarse Zansetsu."
+      },
+      {
+         "header": "CMDNAG11T",
+         "text": "Un bombardeo de poderosos tajos.^n;^n;Tiene un arranque rápido y al principio es invulnerable, lo que significa que puede usarse para interrumpir las secuencias de ataques del rival.^n;Tiene corto alcance, pero al golpear al rival con la base del ataque se cambian las propiedades, lo que causa un gran daño a la vez que reduce la barra de sangre.^n;^n;También causará un cambio de área cuando se golpea en la esquina."
+      },
+      {
+         "header": "CMDINO04T",
+         "text": "Un ataque bajo en el que Inés arremete hacia delante.^n;Las versiones ^mBtnS; y ^mBtnHS; tienen alcances diferentes.^n;^n;Puedes usar este movimiento para esquivar ataques altos a la vez que atacas."
+      },
+      {
+         "header": "CMDINO05T",
+         "text": "Una arremetida con diferentes trayectorias en función del botón pulsado.^n;^n;Al pulsar el botón en el momento de golpear o al ser bloqueado, la trayectoria de Inés cambiará para saltar hacia adelante."
+      },
+      {
+         "header": "CMDINO06T",
+         "text": "Una técnica de agarre que causa gran daño.^n;Aunque no puede bloquearse, no acertará a no ser que estés muy cerca del rival.^n;^n;Inés lanzará una gran cantidad de proyectiles hacia delante si el ataque no acierta.^n;"
+      },
+      {
+         "header": "CMDINO07T",
+         "text": "Un movimiento en el que Inés salta en el aire y lanza un poderoso ataque de proyectiles a lo que la rodea.^n;El arranque de este movimiento es invulnerable y causará un cambio de área cuando se golpea en la esquina.^n;^n;En la versión aérea del movimiento, Inés lanza el ataque inmediatamente y el arranque pierde la invulnerabilidad."
+      },
+      {
+         "header": "Training_Item_ZAT_EddieGauge",
+         "text": "Barra de vida de Eduardo"
+      },
+      {
+         "header": "Training_AXL_007",
+         "text": "Alejandro Bomber"
+      },
+      {
+         "header": "Training_POT_000",
+         "text": "Pepe Miguel Buster"
+      },
+      {
+         "header": "Training_POT_009",
+         "text": "Heavenly Pepe Miguel Buster"
+      },
+      {
+         "header": "Training_ZAT_001",
+         "text": "Invocar a Eduardo"
+      },
+      {
+         "header": "vzat401demob_0",
+         "text": "Me llamo Zacarías-Primero..."
+      },
+      {
+         "header": "vino401demov_0_ino",
+         "text": "Inés. Es un nombre encantador.^n;Es como si lo hubiera oído antes."
+      },
+      {
+         "header": "CHARA_NAME_L_KYK",
+         "text": "KIKE KISKE"
+      },
+      {
+         "header": "CHARA_NAME_L_MAY",
+         "text": "MAYONESA"
+      },
+      {
+         "header": "CHARA_NAME_L_POT",
+         "text": "PEPE MIGUEL"
+      },
+      {
+         "header": "CHARA_NAME_L_AXL",
+         "text": "ALEJANDRO BAJO"
+      },
+      {
+         "header": "CHARA_NAME_L_ZAT",
+         "text": "ZACARÍAS-PRIMERO"
+      },
+      {
+         "header": "CHARA_NAME_L_INO",
+         "text": "INÉS"
+      },
+      {
+         "header": "CHARA_NAME_S_KYK",
+         "text": "KIKE"
+      },
+      {
+         "header": "CHARA_NAME_S_MAY",
+         "text": "MAYONESA"
+      },
+      {
+         "header": "CHARA_NAME_S_POT",
+         "text": "PEPE MIGUEL"
+      },
+      {
+         "header": "CHARA_NAME_S_ZAT",
+         "text": "ZACARÍAS-PRIMERO"
+      },
+      {
+         "header": "CHARA_NAME_S_INO",
+         "text": "INÉS"
+      },
+      {
+         "header": "CHARA_NAME_LOC_L_KYK",
+         "text": "Kike Kiske"
+      },
+      {
+         "header": "CHARA_NAME_LOC_L_MAY",
+         "text": "Mayonesa"
+      },
+      {
+         "header": "CHARA_NAME_LOC_L_POT",
+         "text": "Pepe Miguel"
+      },
+      {
+         "header": "CHARA_NAME_LOC_L_AXL",
+         "text": "Alejandro Bajo"
+      },
+      {
+         "header": "CHARA_NAME_LOC_L_ZAT",
+         "text": "ZACARÍAS-PRIMERO"
+      },
+      {
+         "header": "CHARA_NAME_LOC_L_INO",
+         "text": "Inés"
+      },
+      {
+         "header": "CHARA_NAME_LOC_S_KYK",
+         "text": "Kike"
+      },
+      {
+         "header": "CHARA_NAME_LOC_S_MAY",
+         "text": "Mayonesa"
+      },
+      {
+         "header": "CHARA_NAME_LOC_S_POT",
+         "text": "Pepe Miguel"
+      },
+      {
+         "header": "CHARA_NAME_LOC_S_AXL",
+         "text": "Alejandro"
+      },
+      {
+         "header": "CHARA_NAME_LOC_S_ZAT",
+         "text": "ZACARÍAS-PRIMERO"
+      },
+      {
+         "header": "CHARA_NAME_LOC_S_INO",
+         "text": "Inés"
+      },
+      {
+         "header": "NmlAtk5E",
+         "text": "Dust Attack: ^mBtnD;"
+      },
+      {
+         "header": "AxlBomber",
+         "text": "Alejandro Bomber - ^mAtk623;+^mBtnHS; en el aire"
+      },
+      {
+         "header": "PotemkinBuster",
+         "text": "Pepe Miguel Buster - ^mAtk63214;^mAtk6;+^mBtnP;"
+      },
+      {
+         "header": "HeavenlyPBuster",
+         "text": "Heavenly Pepe Miguel Buster - ^mAtk236;^mAtk236;+^mBtnS;"
+      },
+      {
+         "header": "EddieSummonOnly",
+         "text": "Invocar a Eduardo - ^mAtk214;+^mBtnHS;"
+      },
+      {
+         "header": "EddieEnd",
+         "text": "Retirar a Eduardo: ^mAtk214;+^mBtnHS;"
+      },
+      {
+         "header": "CS_BattleType_Power",
+         "text": "Agarre"
+      },
+      {
+         "header": "bgm_002_kyk_Flavor",
+         "text": "GGST TEMA DE KIKE"
+      },
+      {
+         "header": "bgm_003_may_Flavor",
+         "text": "GGST TEMA DE MAYONESA"
+      },
+      {
+         "header": "bgm_004_pot_Flavor",
+         "text": "GGST TEMA DE PEPE MIGUEL"
+      },
+      {
+         "header": "bgm_006_axl_Flavor",
+         "text": "GGST TEMA DE ALEJANDRO"
+      },
+      {
+         "header": "bgm_007_zat_Flavor",
+         "text": "GGST TEMA DE ZACARÍAS-PRIMERO"
+      },
+      {
+         "header": "bgm_013_ino_Flavor",
+         "text": "GGST TEMA DE INÉS"
+      },
+      {
+         "header": "BtlAnnounce_Positive",
+         "text": "POGGIES"
+      },
+      {
+         "header": "BtlAnnounce_Negative",
+         "text": "POGGISN'T"
+      },
+      {
+         "header": "EddieKese",
+         "text": "Ataca a Eduardo"
+      },
+      {
+         "header": "Tsutsuku2danWarikomi",
+         "text": "Ataca a Eduardo antes del segundo golpe de «Pierce»"
+      },
+      {
+         "header": "HariauGuard",
+         "text": "¡Evita recibir daño hasta que Eduardo desaparezca!"
+      },
+      {
+         "header": "KyougenGuard",
+         "text": "Bloquea Sultry Performance de Inés"
+      },
+      {
+         "header": "SlidePotemkinBuster",
+         "text": "Pulsa ^mBtnP; inmediatamente después para realizar un Pepe Miguel Buster"
+      },
+      {
+         "header": "MISN_CMN_001S_Desc01",
+         "text": "[Controles]^n;^mAtk4;^mAtk4; rápido (o pulsa ^mAtk4; + botón de correr)^n; ^n;Kike realizará un ataque después del salto.^n;Usa correr hacia atrás para evitar su ataque."
+      },
+      {
+         "header": "MISN_CMN_003S_Desc01",
+         "text": "[Controles]^n;^mAtk2;^mAtk8; rápido^n; ^n;Realiza un salto alto y golpea a Zacarías-Primero con un ataque mientras flota en el aire."
+      },
+      {
+         "header": "MISN_CMN_030S_Desc01",
+         "text": "Intenta acercarte a Kike cuando realice un Stun Edge mientras corres y bloqueas."
+      },
+      {
+         "header": "MISN_CMN_043S_Desc01",
+         "text": "La versión ^mBtnS; de Volcanic Viper es invulnerable al principio del movimiento.^n; ^n;Usa el movimiento invulnerable para contraatacar el Foudre Arc de Kike."
+      },
+      {
+         "header": "MISN_CMN_044S_Desc01",
+         "text": "Kike empezará su ofensiva.^n;Intenta escapar sin recibir ningún daño."
+      },
+      {
+         "header": "MISN_CMN_047S_Desc01",
+         "text": "Usa el impulso de correr para saltar sobre el ^mBtnHS; de Pepe Miguel y acertar con un contraataque."
+      },
+      {
+         "header": "MISN_CMN_055S_Desc01",
+         "text": "Mayonesa realizará un ataque cruzado ^mBtnHS; saltando sobre ti. ^n;Que no te confunda la dirección en la que miras y trata de bloquear su ataque."
+      },
+      {
+         "header": "MISN_CMN_060S_Desc01",
+         "text": "Practica el combo específico contra Pepe Miguel."
+      },
+      {
+         "header": "MISN_CMN_067S_Desc01",
+         "text": "Realiza un ^mAtk6;+^mBtnP; y provoca un choque con el ^mBtnHS; de Mayonesa.^n;Mayonesa realizará un movimiento invulnerable justo después del choque.^n;Usa defensa impecable para bloquearlo."
+      },
+      {
+         "header": "MISN_CMN_073S_Desc01",
+         "text": "Sobrescribe el arranque de ^mAtk6;+^mBtnK; de Pepe Miguel con Pepe Miguel Buster y acierta desde una distancia mayor."
+      },
+      {
+         "header": "MISN_CMN_073S_Desc02",
+         "text": "El truco para asestar un Pepe Miguel Buster deslizante es esperar a usar ^mBtnP; después de introducir ^mAtk63214;^mAtk6;+^mBtnK;."
+      },
+      {
+         "header": "MISN_CMN_076S_Desc01",
+         "text": "Contraataca el movimiento de frenesí de Kike con tu propio movimiento invulnerable después de la supercongelación.^n;^n;El truco consiste en completar tu comando justo antes de que finalice la supercongelación."
+      },
+      {
+         "header": "MISN_CMN_088_Title",
+         "text": "Tutorial contra Kike 1"
+      },
+      {
+         "header": "MissionSelect_MissionAdvice_MISN_CMN_088_Title",
+         "text": "Tutorial contra Kike 1"
+      },
+      {
+         "header": "MissionSelect_MissionAdvice_MISN_CMN_088_Desc01",
+         "text": "Kike estará en ventaja cuando bloquees Foudre Arc mientras estés en Shock State."
+      },
+      {
+         "header": "MISN_CMN_088S_Desc01",
+         "text": "Intercepta el Foudre Arc de Kike realizado después de su ^mBtnHS; antes de que se active."
+      },
+      {
+         "header": "MISN_CMN_088E_Desc01",
+         "text": "Puedes reducir la ventaja de Kike incluso cuando bloqueas Foudre Arc con un bloqueo de pie."
+      },
+      {
+         "header": "MISN_CMN_089_Title",
+         "text": "Tutorial contra Kike 2"
+      },
+      {
+         "header": "MissionSelect_MissionAdvice_MISN_CMN_089_Title",
+         "text": "Tutorial contra Kike 2"
+      },
+      {
+         "header": "MissionSelect_MissionAdvice_MISN_CMN_089_Desc01",
+         "text": "Dragon Install es un movimiento que Kike solo tiene disponible cuando su salud es baja."
+      },
+      {
+         "header": "MISN_CMN_089S_Desc01",
+         "text": "Derrota a Kike, que le queda poca salud."
+      },
+      {
+         "header": "MISN_CMN_089E_Desc01",
+         "text": "Te conviene seguir atacando a Kike justo cuando su vida es tan baja como para usar Dragon Install."
+      },
+      {
+         "header": "MISN_CMN_090_Title",
+         "text": "Tutorial contra Mayonesa 1"
+      },
+      {
+         "header": "MissionSelect_MissionAdvice_MISN_CMN_090_Title",
+         "text": "Tutorial contra Mayonesa 1"
+      },
+      {
+         "header": "MissionSelect_MissionAdvice_MISN_CMN_090_Desc01",
+         "text": "Después de que bloquees Mr. Dolphin (horizontal), Mayonesa estará en desventaja después de la versión ^mBtnS; del movimiento, mientras que tendrá ventaja después de la versión ^mBtnHS;."
+      },
+      {
+         "header": "MISN_CMN_091_Title",
+         "text": "Tutorial contra Mayonesa 2"
+      },
+      {
+         "header": "MissionSelect_MissionAdvice_MISN_CMN_091_Title",
+         "text": "Tutorial contra Mayonesa 2"
+      },
+      {
+         "header": "MissionSelect_MissionAdvice_MISN_CMN_091_Desc01",
+         "text": "Great Yamada Attack es un movimiento problemático con el que tratar, ya que el arranque del movimiento es más rápido cuanto más cerca esté Mayonesa de la esquina."
+      },
+      {
+         "header": "MissionSelect_MissionAdvice_MISN_CMN_091_Desc02",
+         "text": "Ten cuidado cuando hayas acorralado a Mayonesa, ya que si este movimiento te golpea, te empujará hacia el centro de la fase y recibirás mucho daño."
+      },
+      {
+         "header": "MISN_CMN_092_Title",
+         "text": "Tutorial contra Alejandro 1"
+      },
+      {
+         "header": "MissionSelect_MissionAdvice_MISN_CMN_092_Title",
+         "text": "Tutorial contra Alejandro 1"
+      },
+      {
+         "header": "MissionSelect_MissionAdvice_MISN_CMN_092_Desc01",
+         "text": "Alejandro tendrá ventaja si bloqueas Rainwater."
+      },
+      {
+         "header": "MissionSelect_MissionAdvice_MISN_CMN_092_Desc02",
+         "text": "Este movimiento puede esquivarse con un salto. ^n;Asegúrate de saltar hacia delante para esquivar este movimiento a la vez que avanzas para acercarte a Alejandro, ya que es más débil en las distancias cortas."
+      },
+      {
+         "header": "MISN_CMN_092E_Desc01",
+         "text": "Alejandro tiene varios movimientos como Sickle Flash y Snail para evitar que saltes. Sin embargo, estos movimientos dejarán a Alejandro en desventaja cuando los bloqueas."
+      },
+      {
+         "header": "MISN_CMN_092E_Desc02",
+         "text": "Confúndelo alternando entre saltos y bloqueos para presionar a Alejandro mientras avanzas hacia él."
+      },
+      {
+         "header": "MISN_CMN_093_Title",
+         "text": "Tutorial contra Alejandro 2"
+      },
+      {
+         "header": "MissionSelect_MissionAdvice_MISN_CMN_093_Title",
+         "text": "Tutorial contra Alejandro 2"
+      },
+      {
+         "header": "MissionSelect_MissionAdvice_MISN_CMN_093_Desc01",
+         "text": "Winter Mantis es un movimiento cuyo arranque será más rápido cuanto más lejos esté Alejandro del rival."
+      },
+      {
+         "header": "MISN_CMN_093E_Desc01",
+         "text": "Este movimiento se hace más lento cuanto más te acercas a Alejandro.^n;Sigue avanzando hacia él para que puedas reaccionar cuando lo use."
+      },
+      {
+         "header": "MISN_CMN_093E_Desc02",
+         "text": "Una vez que estés muy cerca de Alejandro, puedes castigar el uso del movimiento después de saltar para esquivarlo."
+      },
+      {
+         "header": "MISN_CMN_096_Title",
+         "text": "Tutorial contra Pepe Miguel 1"
+      },
+      {
+         "header": "MissionSelect_MissionAdvice_MISN_CMN_096_Title",
+         "text": "Tutorial contra Pepe Miguel 1"
+      },
+      {
+         "header": "MissionSelect_MissionAdvice_MISN_CMN_096_Desc01",
+         "text": "Pepe Miguel puede resistir un solo golpe mientras carga hacia adelante durante Hammer Fall."
+      },
+      {
+         "header": "MISN_CMN_096E_Desc01",
+         "text": "Hay otras contramedidas, como utilizar un movimiento que golpee varias veces para interrumpir a Pepe Miguel cuando esté cargando hacia adelante o saltar para esquivar y lanzar un contraataque cuando se esté recuperando."
+      },
+      {
+         "header": "MISN_CMN_096E_Desc02",
+         "text": "Cuando hayas lanzado tu contraataque, realiza un combo que cause mucho daño o derriba a Pepe Miguel para cambiar las tornas a tu favor."
+      },
+      {
+         "header": "MISN_CMN_097_Title",
+         "text": "Tutorial contra Pepe Miguel 2"
+      },
+      {
+         "header": "MissionSelect_MissionAdvice_MISN_CMN_097_Title",
+         "text": "Tutorial contra Pepe Miguel 2"
+      },
+      {
+         "header": "MissionSelect_MissionAdvice_MISN_CMN_097_Desc",
+         "text": "Aunque Giganter Kai hace invulnerable a Pepe Miguel después de activarse y tiene poca recuperación cuando se bloquea, es vulnerable a un lanzamiento.^n;Contraataca este movimiento con un lanzamiento si lo tienes al alcance."
+      },
+      {
+         "header": "MISN_CMN_102_Title",
+         "text": "Tutorial contra Zacarías 1"
+      },
+      {
+         "header": "MISN_CMN_102_DetailedDesc",
+         "text": "¡Ataca a Eduardo y hazlo desaparecer!"
+      },
+      {
+         "header": "MissionSelect_MissionAdvice_MISN_CMN_102_Title",
+         "text": "Tutorial contra Zacarías 1"
+      },
+      {
+         "header": "MISN_CMN_102E_Desc01",
+         "text": "La intercepción de un gran movimiento puede exponerte a un ataque de Zacarías.^n;Usa ataques con arranque rápido como ^mBtnP; agachado para interceptar el segundo golpe."
+      },
+      {
+         "header": "MISN_CMN_103_Title",
+         "text": "Tutorial contra Zacarías 2"
+      },
+      {
+         "header": "MissionSelect_MissionAdvice_MISN_CMN_103_Title",
+         "text": "Tutorial contra Zacarías 2"
+      },
+      {
+         "header": "MissionSelect_MissionAdvice_MISN_CMN_103_Desc01",
+         "text": "Eduardo bloqueará cualquier ataque inminente con «Oppose», lo que hará difícil atacar a Zacarías mientras Eduardo esté fuera."
+      },
+      {
+         "header": "MissionSelect_MissionAdvice_MISN_CMN_103_Desc02",
+         "text": "Zacarías no podrá invocar a Eduardo después de realizar este movimiento, así que retrocede y espera al momento oportuno."
+      },
+      {
+         "header": "MISN_CMN_103E_Desc01",
+         "text": "Si atacas por accidente a Eduardo durante «Oppose», puedes continuar con un Roman Cancel rojo para mantenerte a salvo."
+      },
+      {
+         "header": "MISN_CMN_103E_Desc02",
+         "text": "Además, podrás interrumpir el movimiento si consigues golpear a Zacarías con la onda expansiva que produce."
+      },
+      {
+         "header": "MISN_CMN_114_Title",
+         "text": "Tutorial contra Inés 1"
+      },
+      {
+         "header": "MISN_CMN_114_DetailedDesc",
+         "text": "¡Interrumpe a Inés cuando salte hacia delante!"
+      },
+      {
+         "header": "MissionSelect_MissionAdvice_MISN_CMN_114_Title",
+         "text": "Tutorial contra Inés 1"
+      },
+      {
+         "header": "MissionSelect_MissionAdvice_MISN_CMN_114_Desc01",
+         "text": "Inés puede realizar un pequeño salto hacia delante durante Sultry Performance con un comando adicional cuando golpea o es bloqueada."
+      },
+      {
+         "header": "MISN_CMN_114S_Desc01",
+         "text": "Interrumpe el ataque de salto de Inés después de su Sultry Performance con un ataque rápido."
+      },
+      {
+         "header": "MISN_CMN_114E_Desc01",
+         "text": "Tendrás ventaja si has bloqueado con éxito Sultry Performance de Inés y no lo continúa con el salto hacia adelante."
+      },
+      {
+         "header": "MISN_CMN_114E_Desc02",
+         "text": "Por lo tanto, prepárate para realizar un ataque rápido cada vez que bloquees el Sultry Performance cuando Inés no tenga la barra de tensión al 50 % o más."
+      },
+      {
+         "header": "MISN_CMN_115_Title",
+         "text": "Tutorial contra Inés 2"
+      },
+      {
+         "header": "MISN_CMN_115_DetailedDesc",
+         "text": "¡Interrumpe a Inés antes de que realice el segundo golpe!"
+      },
+      {
+         "header": "MissionSelect_MissionAdvice_MISN_CMN_115_Title",
+         "text": "Tutorial contra Inés 2"
+      },
+      {
+         "header": "MissionSelect_MissionAdvice_MISN_CMN_115_Desc01",
+         "text": "Como la versión desde el suelo de Ultimate Fortissimo es invulnerable durante el arranque, hay muchas probabilidades de que Inés realice este movimiento después de recuperarse de un derribo."
+      },
+      {
+         "header": "MissionSelect_MissionAdvice_MISN_CMN_115_Desc02",
+         "text": "Además, no podrás castigar a Inés después de bloquear la onda expansiva, que es el segundo golpe de este movimiento.^n;Asegúrate de interrumpir a Inés antes de que recibas el segundo golpe."
+      },
+      {
+         "header": "MISN_CMN_115S_Desc01",
+         "text": "Tras derribar a Inés con un barrido^n;(^mAtk2;+^mBtnD;), realizará Ultimate Fortissimo justo después de recuperarse.^n;^n;Prepárate para bloquear el primer golpe de Ultimate Fortissimo y castigarla antes de que realice el segundo."
+      },
+      {
+         "header": "MISN_CMN_115E_Desc01",
+         "text": "Inés estará en el aire cuando castigues su Ultimate Fortissimo antes de que realice el segundo golpe."
+      },
+      {
+         "header": "MISN_PotemkinBuster",
+         "text": "Pepe Miguel Buster - ^mAtk63214;^mAtk6;+^mBtnP; cerca del rival"
+      },
+      {
+         "header": "PM_Settings_View_Head",
+         "text": "Configuración de sala"
+      },
+      {
+         "header": "Lobby_Badge15_02_KYK_NoNum",
+         "text": "Medalla conmemorativa de primer lugar [Kike]"
+      },
+      {
+         "header": "Lobby_Badge15_02_MAY_NoNum",
+         "text": "Medalla conmemorativa de primer lugar [Mayonesa]"
+      },
+      {
+         "header": "Lobby_Badge15_02_POT_NoNum",
+         "text": "Medalla conmemorativa de primer lugar [Pepe Miguel]"
+      },
+      {
+         "header": "Lobby_Badge15_02_AXL_NoNum",
+         "text": "Medalla conmemorativa de primer lugar [Alejandro]"
+      },
+      {
+         "header": "Lobby_Badge15_02_ZAT_NoNum",
+         "text": "Medalla conmemorativa de primer lugar [Zacarías]"
+      },
+      {
+         "header": "Lobby_Badge15_02_INO_NoNum",
+         "text": "Medalla conmemorativa de primer lugar [Inés]"
+      },
+      {
+         "header": "Lobby_Badge6_02_KYK",
+         "text": "Kike"
+      },
+      {
+         "header": "Lobby_Badge6_02_MAY",
+         "text": "Mayonesa"
+      },
+      {
+         "header": "Lobby_Badge6_02_AXL",
+         "text": "Alejandro"
+      },
+      {
+         "header": "Lobby_Badge6_02_POT",
+         "text": "Pepe Miguel"
+      },
+      {
+         "header": "Lobby_Badge6_02_ZAT",
+         "text": "Zacarías"
+      },
+      {
+         "header": "Lobby_Badge6_02_INO",
+         "text": "Inés"
+      },
+      {
+         "header": "Lobby_Badge10_02_KYK",
+         "text": "vs. Kike: {0} victorias"
+      },
+      {
+         "header": "Lobby_Badge10_02_MAY",
+         "text": "vs. Mayonesa: {0} victorias"
+      },
+      {
+         "header": "Lobby_Badge10_02_AXL",
+         "text": "vs. Alejandro: {0} victorias"
+      },
+      {
+         "header": "Lobby_Badge10_02_POT",
+         "text": "vs. Pepe Miguel: {0} victorias"
+      },
+      {
+         "header": "Lobby_Badge10_02_ZAT",
+         "text": "vs. Zacarías-Primero: {0} victorias"
+      },
+      {
+         "header": "Lobby_Badge10_02_INO",
+         "text": "vs. Inés: {0} victorias"
+      },
+      {
+         "header": "Lobby_Badge15_02_KYK",
+         "text": "1.er puesto con Kike: {0} veces"
+      },
+      {
+         "header": "Lobby_Badge15_02_MAY",
+         "text": "1.er puesto con Mayonesa: {0} veces"
+      },
+      {
+         "header": "Lobby_Badge15_02_AXL",
+         "text": "1.er puesto con Alejandro: {0} veces"
+      },
+      {
+         "header": "Lobby_Badge15_02_POT",
+         "text": "1.er puesto con Pepe Miguel: {0} veces"
+      },
+      {
+         "header": "Lobby_Badge15_02_ZAT",
+         "text": "1.er puesto con Zacarías: {0} veces"
+      },
+      {
+         "header": "Lobby_Badge15_02_INO",
+         "text": "1.er puesto con Inés: {0} veces"
+      },
+      {
+         "header": "Lobby_Badge10_02_KYK_BadgeList",
+         "text": "Total de victorias vs. Kike"
+      },
+      {
+         "header": "Lobby_Badge10_02_MAY_BadgeList",
+         "text": "Total de victorias vs. Mayonesa"
+      },
+      {
+         "header": "Lobby_Badge10_02_AXL_BadgeList",
+         "text": "Total de victorias vs. Alejandro"
+      },
+      {
+         "header": "Lobby_Badge10_02_POT_BadgeList",
+         "text": "Total de victorias vs. Pepe Miguel"
+      },
+      {
+         "header": "Lobby_Badge10_02_ZAT_BadgeList",
+         "text": "Total de victorias vs. Zacarías"
+      },
+      {
+         "header": "Lobby_Badge10_02_INO_BadgeList",
+         "text": "Total de victorias vs. Inés"
+      },
+      {
+         "header": "Lobby_Badge15_02_KYK_BadgeList",
+         "text": "Primer lugar de Kike"
+      },
+      {
+         "header": "Lobby_Badge15_02_MAY_BadgeList",
+         "text": "Primer lugar de Mayonesa"
+      },
+      {
+         "header": "Lobby_Badge15_02_AXL_BadgeList",
+         "text": "Primer lugar de Alejandro"
+      },
+      {
+         "header": "Lobby_Badge15_02_POT_BadgeList",
+         "text": "Primer lugar de Pepe Miguel"
+      },
+      {
+         "header": "Lobby_Badge15_02_ZAT_BadgeList",
+         "text": "Primer lugar de Zacarías"
+      },
+      {
+         "header": "Lobby_Badge15_02_INO_BadgeList",
+         "text": "Primer lugar de Inés"
+      },
+      {
+         "header": "AvatarCustomize_Hair_KYK",
+         "text": "Peinado de Kike"
+      },
+      {
+         "header": "AvatarCustomize_Hair_MAY",
+         "text": "Peinado de Mayonesa"
+      },
+      {
+         "header": "AvatarCustomize_Hair_AXL",
+         "text": "Peinado de Alejandro"
+      },
+      {
+         "header": "AvatarCustomize_Hair_ZAT",
+         "text": "Peinado de Zacarías"
+      },
+      {
+         "header": "AvatarCustomize_Hair_INO",
+         "text": "Peinado de Inés"
+      },
+      {
+         "header": "AvatarCustomize_Top_KYK",
+         "text": "Disfraz de Kike"
+      },
+      {
+         "header": "AvatarCustomize_Top_MAY",
+         "text": "Disfraz de Mayonesa"
+      },
+      {
+         "header": "AvatarCustomize_Top_AXL",
+         "text": "Disfraz de Alejandro"
+      },
+      {
+         "header": "AvatarCustomize_Top_POT",
+         "text": "Disfraz de Pepe Miguel"
+      },
+      {
+         "header": "AvatarCustomize_Top_ZAT",
+         "text": "Disfraz de Zacarías"
+      },
+      {
+         "header": "AvatarCustomize_Top_INO",
+         "text": "Disfraz de Inés"
+      },
+      {
+         "header": "AvatarCustomize_Bottom_KYK",
+         "text": "Disfraz de Kike"
+      },
+      {
+         "header": "AvatarCustomize_Bottom_MAY",
+         "text": "Disfraz de Mayonesa"
+      },
+      {
+         "header": "AvatarCustomize_Bottom_AXL",
+         "text": "Disfraz de Alejandro"
+      },
+      {
+         "header": "AvatarCustomize_Bottom_POT",
+         "text": "Disfraz de Pepe Miguel"
+      },
+      {
+         "header": "AvatarCustomize_Bottom_ZAT",
+         "text": "Disfraz de Zacarías"
+      },
+      {
+         "header": "AvatarCustomize_Bottom_INO",
+         "text": "Disfraz de Inés"
+      },
+      {
+         "header": "AvatarCustomize_Shoes_KYK",
+         "text": "Zapatos de Kike"
+      },
+      {
+         "header": "AvatarCustomize_Shoes_MAY",
+         "text": "Zapatos de Mayonesa"
+      },
+      {
+         "header": "AvatarCustomize_Shoes_AXL",
+         "text": "Botas de Alejandro"
+      },
+      {
+         "header": "AvatarCustomize_Shoes_POT",
+         "text": "Botas de Pepe Miguel"
+      },
+      {
+         "header": "AvatarCustomize_Shoes_ZAT",
+         "text": "Botas de Zacarías"
+      },
+      {
+         "header": "AvatarCustomize_Shoes_INO",
+         "text": "Botas de Inés"
+      },
+      {
+         "header": "AvatarCustomize_Head_MAY",
+         "text": "Sombrero de Mayonesa"
+      },
+      {
+         "header": "AvatarCustomize_Head_POT",
+         "text": "Casco de Pepe Miguel"
+      },
+      {
+         "header": "AvatarCustomize_Head_INO",
+         "text": "Sombrero y gafas de Inés"
+      },
+      {
+         "header": "AvatarCustomize_Prop_Guitar5",
+         "text": "Guitarra eléctrica de Inés"
+      },
+      {
+         "header": "GalleryItem_Artwork_03_02",
+         "text": "[GGST] Imagen del personaje [Kike]"
+      },
+      {
+         "header": "GalleryItem_Artwork_03_03",
+         "text": "[GGST] Imagen del personaje [Mayonesa]"
+      },
+      {
+         "header": "GalleryItem_Artwork_03_04",
+         "text": "[GGST] Imagen del personaje [Alejandro]"
+      },
+      {
+         "header": "GalleryItem_Artwork_03_06",
+         "text": "[GGST] Imagen del personaje [Pepe Miguel]"
+      },
+      {
+         "header": "GalleryItem_Artwork_03_09",
+         "text": "[GGST] Imagen del personaje [Zacarías-Primero]"
+      },
+      {
+         "header": "GalleryItem_Artwork_03_15",
+         "text": "[GGST] Imagen del personaje [Inés]"
+      },
+      {
+         "header": "GalleryItem_Artwork_04_02",
+         "text": "[GGXrdR] Imagen del personaje [Kike]"
+      },
+      {
+         "header": "GalleryItem_Artwork_04_03",
+         "text": "[GGXrdR] Imagen del personaje [Mayonesa]"
+      },
+      {
+         "header": "GalleryItem_Artwork_04_04",
+         "text": "[GGXrdR] Imagen del personaje [Alejandro]"
+      },
+      {
+         "header": "GalleryItem_Artwork_04_06",
+         "text": "[GGXrdR] Imagen del personaje [Pepe Miguel]"
+      },
+      {
+         "header": "GalleryItem_Artwork_04_09",
+         "text": "[GGXrdR] Imagen del personaje [Zacarías-Primero]"
+      },
+      {
+         "header": "GalleryItem_Artwork_04_12",
+         "text": "[GGXrdR] Imagen del personaje [Inés]"
+      },
+      {
+         "header": "GalleryItem_Artwork_05_02",
+         "text": "[GGISUKA] Imagen del personaje [Kike]"
+      },
+      {
+         "header": "GalleryItem_Artwork_05_03",
+         "text": "[GGISUKA] Imagen del personaje [Mayonesa]"
+      },
+      {
+         "header": "GalleryItem_Artwork_05_04",
+         "text": "[GGISUKA] Imagen del personaje [Alejandro]"
+      },
+      {
+         "header": "GalleryItem_Artwork_05_06",
+         "text": "[GGISUKA] Imagen del personaje [Pepe Miguel]"
+      },
+      {
+         "header": "GalleryItem_Artwork_05_09",
+         "text": "[GGISUKA] Imagen del personaje [Zacarías-Primero]"
+      },
+      {
+         "header": "GalleryItem_Artwork_05_11",
+         "text": "[GGISUKA] Imagen del personaje [Inés]"
+      },
+      {
+         "header": "GalleryItem_Artwork_06_02",
+         "text": "[GGXX AC] Imagen del personaje [Kike]"
+      },
+      {
+         "header": "GalleryItem_Artwork_06_03",
+         "text": "[GGXX AC] Imagen del personaje [Mayonesa]"
+      },
+      {
+         "header": "GalleryItem_Artwork_06_04",
+         "text": "[GGXX AC] Imagen del personaje [Alejandro]"
+      },
+      {
+         "header": "GalleryItem_Artwork_06_06",
+         "text": "[GGXX AC] Imagen del personaje [Pepe Miguel]"
+      },
+      {
+         "header": "GalleryItem_Artwork_06_09",
+         "text": "[GGXX AC] Imagen del personaje [Zacarías-Primero]"
+      },
+      {
+         "header": "GalleryItem_Artwork_06_11",
+         "text": "[GGXX AC] Imagen del personaje [Inés]"
+      },
+      {
+         "header": "GalleryItem_Artwork_07_02",
+         "text": "[GGXX] Imagen del personaje [Kike]"
+      },
+      {
+         "header": "GalleryItem_Artwork_07_03",
+         "text": "[GGXX] Imagen del personaje [Mayonesa]"
+      },
+      {
+         "header": "GalleryItem_Artwork_07_04",
+         "text": "[GGXX] Imagen del personaje [Alejandro]"
+      },
+      {
+         "header": "GalleryItem_Artwork_07_06",
+         "text": "[GGXX] Imagen del personaje [Pepe Miguel]"
+      },
+      {
+         "header": "GalleryItem_Artwork_07_09",
+         "text": "[GGXX] Imagen del personaje [Zacarías-Primero]"
+      },
+      {
+         "header": "GalleryItem_Artwork_07_11",
+         "text": "[GGXX] Imagen del personaje [Inés]"
+      },
+      {
+         "header": "GalleryItem_Artwork_08_04",
+         "text": "Diseño conceptual de Kike 1"
+      },
+      {
+         "header": "GalleryItem_Artwork_08_05",
+         "text": "Diseño conceptual de Kike 2"
+      },
+      {
+         "header": "GalleryItem_Artwork_08_06",
+         "text": "Diseño conceptual de Kike 3"
+      },
+      {
+         "header": "GalleryItem_Artwork_08_07",
+         "text": "Diseño conceptual de Mayonesa 1"
+      },
+      {
+         "header": "GalleryItem_Artwork_08_08",
+         "text": "Diseño conceptual de Mayonesa 2"
+      },
+      {
+         "header": "GalleryItem_Artwork_08_09",
+         "text": "Diseño conceptual de Mayonesa 3"
+      },
+      {
+         "header": "GalleryItem_Artwork_08_10",
+         "text": "Diseño conceptual de Alejandro 1"
+      },
+      {
+         "header": "GalleryItem_Artwork_08_11",
+         "text": "Diseño conceptual de Alejandro 2"
+      },
+      {
+         "header": "GalleryItem_Artwork_08_12",
+         "text": "Diseño conceptual de Alejandro 3"
+      },
+      {
+         "header": "GalleryItem_Artwork_08_16",
+         "text": "Diseño conceptual de Pepe Miguel 1"
+      },
+      {
+         "header": "GalleryItem_Artwork_08_17",
+         "text": "Diseño conceptual de Pepe Miguel 2"
+      },
+      {
+         "header": "GalleryItem_Artwork_08_18",
+         "text": "Diseño conceptual de Pepe Miguel 3"
+      },
+      {
+         "header": "GalleryItem_Artwork_08_25",
+         "text": "Diseño conceptual de Zacarías-Primero 1"
+      },
+      {
+         "header": "GalleryItem_Artwork_08_26",
+         "text": "Diseño conceptual de Zacarías-Primero 2"
+      },
+      {
+         "header": "GalleryItem_Artwork_08_27",
+         "text": "Diseño conceptual de Zacarías-Primero 3"
+      },
+      {
+         "header": "GalleryItem_Artwork_08_43",
+         "text": "Diseño conceptual de Inés 1"
+      },
+      {
+         "header": "GalleryItem_Artwork_08_44",
+         "text": "Diseño conceptual de Inés 2"
+      },
+      {
+         "header": "GalleryItem_Artwork_08_45",
+         "text": "Diseño conceptual de Inés 3"
+      },
+      {
+         "header": "GalleryItem_Music_01_02",
+         "text": "Tema de Kike"
+      },
+      {
+         "header": "GalleryItem_Music_01_04",
+         "text": "Tema de Pepe Miguel"
+      },
+      {
+         "header": "GalleryItem_Music_01_06",
+         "text": "Tema de Alejandro"
+      },
+      {
+         "header": "GalleryItem_Music_01_09",
+         "text": "Tema de Zacarías"
+      },
+      {
+         "header": "GalleryItem_Music_01_13",
+         "text": "Tema de Inés"
+      },
+      {
+         "header": "GalleryItem_Music_02_02",
+         "text": "Tema de Sol vs. Kike"
+      },
+      {
+         "header": "GalleryItem_Music_02_03",
+         "text": "Tema de Zacarías vs. Millia"
+      },
+      {
+         "header": "GalleryItem_Movie_02_02",
+         "text": "New GUILTY GEAR Sol and Kike Trailer - TGS2019"
+      },
+      {
+         "header": "GalleryItem_Movie_02_03",
+         "text": "New GUILTY GEAR Mayonesa Trailer - CEOtaku2019"
+      },
+      {
+         "header": "GalleryItem_Movie_02_04",
+         "text": "New GUILTY GEAR Alejandro Trailer - SEA MAJOR 2019"
+      },
+      {
+         "header": "GalleryItem_Movie_02_05",
+         "text": "New GUILTY GEAR Chipp & Pepe Miguel Trailer"
+      },
+      {
+         "header": "RoomCustomize_Floor_VendingMachineA",
+         "text": "Máquina expendedora"
+      },
+      {
+         "header": "RoomCustomize_Floor_VendingMachineB",
+         "text": "Máquina expendedora roja"
+      },
+      {
+         "header": "RoomCustomize_Floor_VendingMachineC",
+         "text": "Máquina expendedora azul"
+      },
+      {
+         "header": "RoomCustomize_Floor_PirateTreasureA01",
+         "text": "Cofre del tesoro (abierto)"
+      },
+      {
+         "header": "RoomCustomize_Floor_JapaneseCushionA01",
+         "text": "Cojín japonés"
+      },
+      {
+         "header": "RoomCustomize_Floor_JapaneseCushionA02",
+         "text": "Cojín japonés"
+      },
+      {
+         "header": "RoomCustomize_Floor_JapaneseCushionB01",
+         "text": "Pila de cojines japoneses"
+      },
+      {
+         "header": "RoomCustomize_Floor_JapaneseCushionB02",
+         "text": "Pila de cojines japoneses"
+      },
+      {
+         "header": "RoomCustomize_Floor_DrumSet05",
+         "text": ""
+      },
+      {
+         "header": "RoomCustomize_Wall_WantedA02",
+         "text": "Cartel de se busca (Kike)"
+      },
+      {
+         "header": "RoomCustomize_Wall_Hangar_A01",
+         "text": "Colgador de pared A (amarillo)"
+      },
+      {
+         "header": "RoomCustomize_Wall_Hangar_A02",
+         "text": "Colgador de pared A (azul)"
+      },
+      {
+         "header": "RoomCustomize_Wall_Hangar_A03",
+         "text": "Colgador de pared A (rojo)"
+      },
+      {
+         "header": "RoomCustomize_Wall_Hangar_B01",
+         "text": "Colgador de pared B (azul claro)"
+      },
+      {
+         "header": "RoomCustomize_Wall_Hangar_B02",
+         "text": "Colgador de pared B (rosa)"
+      },
+      {
+         "header": "RoomCustomize_Wall_Hangar_B03",
+         "text": "Colgador de pared B (negro)"
+      },
+      {
+         "header": "RoomCustomize_Wall_Hangar_C01",
+         "text": "Colgador de pared C (pantalones de chándal)"
+      },
+      {
+         "header": "RoomCustomize_Wall_Hangar_C02",
+         "text": "Colgador de pared C (falda)"
+      },
+      {
+         "header": "RoomCustomize_Wall_Hangar_C03",
+         "text": "Colgador de pared C (pantalones cortos)"
+      },
+      {
+         "header": "RoomCustomize_Wall_Hangar_C04",
+         "text": "Colgador de pared C (pantalones)"
+      },
+      {
+         "header": "RoomCustomize_Wall_Hangar_D01",
+         "text": "Colgador de pared D (sudadera)"
+      },
+      {
+         "header": "RoomCustomize_Wall_Hangar_D02",
+         "text": "Colgador de pared D (abrigo)"
+      },
+      {
+         "header": "RoomCustomize_Wall_Hangar_D03",
+         "text": "Colgador de pared D (vaqueros y chaqueta)"
+      },
+      {
+         "header": "RoomCustomize_Wall_Hangar_D04",
+         "text": "Colgador de pared D (trajes)"
+      },
+      {
+         "header": "StoryMainChapterDesc02",
+         "text": "Durante su incursión en el sótano del castillo de Iliria, Inés extrae «algo» de la Voluntad Universal. Toma la forma de un humano y se hace llamar Chaos.^n;^n;Aunque la noticia de este asalto se difunde rápidamente, el presidente estadounidense Vernon decide seguir adelante con la Cumbre del G4 tal y como estaba previsto.^n;¿Cuál es el objetivo de Asuka al asistir a la Cumbre del G4?"
+      },
+      {
+         "header": "StoryMainChapterDesc04",
+         "text": "Al percibir ciertas irregularidades en las acciones de Inés, Sol sospecha de la posibilidad de que haya un cómplice actuando aparte. Con el tiempo, se enfrenta al misterioso Chaos, pero no consigue detenerlo debido a la intervención de Nagoriyuki.^n;^n;Mientras la inquietud se extiende por todo el mundo antes de la Cumbre del G4, la compañera de Sol, Jack-O', se cuestiona su propia existencia."
+      }
+   ]
+}
