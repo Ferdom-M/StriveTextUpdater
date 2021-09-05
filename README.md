@@ -34,6 +34,7 @@ Json Creator
 ========================
 
 Reads the REDGame.uexp file and compares it to a vanilla one, every change is saved in text.json with format "Entries": {"header": "content", "text": "content"} 
+
 It's used exactly the same as the Strive Text Updater
 
 Have fun making text mods!
