@@ -30,4 +30,11 @@ If used offline, it will try to read **REDGameUpdated.uexp**, must be provided b
 
 When finished it will create a file named: "**NewREDGame.uexp**". Rename it to REDGame.uexp and create your pak using Unreal Pak
 
+========================
+Json Creator
+========================
+
+Reads the REDGame.uexp file and compares it to a vanilla one, every change is saved in text.json with format "Entries": {"header": "content", "text": "content"} 
+It's used exactly the same as the Strive Text Updater
+
 Have fun making text mods!
